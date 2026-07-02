@@ -74,6 +74,19 @@ python main.py
 ## 📸 Output
 
 Run the program and interact with the menu to explore different OOP concepts.
+<img width="188" height="231" alt="1" src="https://github.com/user-attachments/assets/adf123a4-76d7-4ba4-855a-e0e80fc0f258" />
+
+
+<img width="180" height="141" alt="2" src="https://github.com/user-attachments/assets/87e6b178-3dc4-4e08-afcd-d513bb865c5e" />
+
+
+<img width="177" height="133" alt="3" src="https://github.com/user-attachments/assets/66f1c38a-fe37-4ea6-931e-38701ddb6949" />
+
+
+<img width="233" height="134" alt="4" src="https://github.com/user-attachments/assets/bcea5eb1-a3a2-46d6-9321-e5f84195a8c2" />
+
+
+<img width="188" height="86" alt="5" src="https://github.com/user-attachments/assets/5faa098d-bc1c-48e2-8c87-6ec777cec1d2" />
 
 ---
 
