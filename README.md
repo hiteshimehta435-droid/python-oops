@@ -11,9 +11,24 @@ A simple Python project that demonstrates the core concepts of **Object-Oriented
 ## 📌 Features
 
 * ✅ Class and Object
+<img width="365" height="236" alt="1" src="https://github.com/user-attachments/assets/85286c51-ef3f-483e-9d07-445d6ddf73b4" />
+
+
+
 * ✅ Constructor (`__init__`)
+<img width="384" height="385" alt="2" src="https://github.com/user-attachments/assets/3e9c829c-2d03-492c-9e84-e1e65d5d96b8" />
+
+
+
 * ✅ Inheritance
-* ✅ Polymorphism
+<img width="392" height="384" alt="3" src="https://github.com/user-attachments/assets/5118be28-fe81-4552-9c89-71f6f1668177" />
+
+
+
+* ✅ Method overloading
+<img width="365" height="158" alt="5" src="https://github.com/user-attachments/assets/54ce2401-0b62-43f5-9b4a-1469708b87f7" />
+
+
 
 ---
 
